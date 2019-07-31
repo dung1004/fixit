@@ -357,6 +357,7 @@ html, body {
 }
 .main .blog .row .box-blog .box-text {
   padding: 50px 30px;
+  height: 210px;
 }
 .main .blog .row .box-blog .box-text h4 a {
   opacity: 0.8;

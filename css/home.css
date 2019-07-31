@@ -295,6 +295,7 @@ html, body {
   opacity: 0.7;
   margin: 20px 0;
   display: inline-block;
+  height: 60px;
 }
 .main .services .box-services .box_icon_text h4 a:hover {
   color: #937dc9;
